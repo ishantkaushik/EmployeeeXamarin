@@ -20,6 +20,7 @@ namespace MDS_Employees_app
             };
             txtName.Text = TextName;
             View.Add(txtName);
+			//BabaKripa
         }
     }
 }
